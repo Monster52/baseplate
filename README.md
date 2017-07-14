@@ -27,6 +27,7 @@ Or install it yourself as:
 ## Usage
 
 TODO: Fix this section
+ADD: navbar and nav items, buttons, forms and inputs, and links
 
 ## Contributing
 
